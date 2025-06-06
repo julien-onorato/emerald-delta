@@ -432,7 +432,7 @@ const struct BattleMove gBattleMoves[MOVES_COUNT] =
     [MOVE_TACKLE] =
     {
         .effect = EFFECT_HIT,
-        .power = 35,
+        .power = 45,
         .type = TYPE_NORMAL,
         .accuracy = 95,
         .pp = 35,

@@ -2382,7 +2382,7 @@ const struct BattleMove gBattleMoves[MOVES_COUNT] =
     [MOVE_MACH_PUNCH] =
     {
         .effect = EFFECT_QUICK_ATTACK,
-        .power = 40,
+        .power = 50,
         .type = TYPE_FIGHTING,
         .accuracy = 100,
         .pp = 30,

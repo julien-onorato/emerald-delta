@@ -666,7 +666,7 @@ const struct BattleMove gBattleMoves[MOVES_COUNT] =
     [MOVE_ACID] =
     {
         .effect = EFFECT_DEFENSE_DOWN_HIT,
-        .power = 40,
+        .power = 50,
         .type = TYPE_POISON,
         .accuracy = 100,
         .pp = 30,

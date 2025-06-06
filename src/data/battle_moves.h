@@ -1602,7 +1602,7 @@ const struct BattleMove gBattleMoves[MOVES_COUNT] =
     [MOVE_SMOG] =
     {
         .effect = EFFECT_POISON_HIT,
-        .power = 20,
+        .power = 40,
         .type = TYPE_POISON,
         .accuracy = 70,
         .pp = 20,

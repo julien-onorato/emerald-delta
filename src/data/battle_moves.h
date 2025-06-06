@@ -978,7 +978,7 @@ const struct BattleMove gBattleMoves[MOVES_COUNT] =
     [MOVE_RAZOR_LEAF] =
     {
         .effect = EFFECT_HIGH_CRITICAL,
-        .power = 55,
+        .power = 65,
         .type = TYPE_GRASS,
         .accuracy = 95,
         .pp = 25,

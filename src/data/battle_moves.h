@@ -484,7 +484,7 @@ const struct BattleMove gBattleMoves[MOVES_COUNT] =
     [MOVE_THRASH] =
     {
         .effect = EFFECT_RAMPAGE,
-        .power = 90,
+        .power = 100,
         .type = TYPE_NORMAL,
         .accuracy = 100,
         .pp = 20,

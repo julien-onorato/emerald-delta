@@ -1589,7 +1589,7 @@ const struct BattleMove gBattleMoves[MOVES_COUNT] =
     [MOVE_LICK] =
     {
         .effect = EFFECT_PARALYZE_HIT,
-        .power = 20,
+        .power = 35,
         .type = TYPE_GHOST,
         .accuracy = 100,
         .pp = 30,

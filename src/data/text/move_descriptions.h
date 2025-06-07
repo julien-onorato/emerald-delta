@@ -506,8 +506,8 @@ static const u8 sFireBlastDescription[] = _(
     "strikes. May cause a burn.");
 
 static const u8 sWaterfallDescription[] = _(
-    "Charges the foe with speed\n"
-    "to climb waterfalls.");
+    "Charges the foe with speed.\n"
+    "May cause flinching.");
 
 static const u8 sClampDescription[] = _(
     "Traps and squeezes the\n"
@@ -954,8 +954,8 @@ static const u8 sCrossChopDescription[] = _(
     "High critical-hit ratio.");
 
 static const u8 sTwisterDescription[] = _(
-    "Whips up a vicious twister\n"
-    "to tear at the foe.");
+    "Whips up a vicious twister.\n"
+    "Attacks first.");
 
 static const u8 sRainDanceDescription[] = _(
     "Boosts the power of WATER-\n"
@@ -1174,8 +1174,8 @@ static const u8 sCamouflageDescription[] = _(
     "depending on the location.");
 
 static const u8 sTailGlowDescription[] = _(
-    "Flashes a light that sharply\n"
-    "raises SP. ATK.");
+    "Flashes a light that also\n"
+    "raises ATK.");
 
 static const u8 sLusterPurgeDescription[] = _(
     "Attacks with a burst of\n"

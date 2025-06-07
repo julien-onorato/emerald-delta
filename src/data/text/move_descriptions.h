@@ -954,8 +954,8 @@ static const u8 sCrossChopDescription[] = _(
     "High critical-hit ratio.");
 
 static const u8 sTwisterDescription[] = _(
-    "Whips up a vicious twister\n"
-    "to tear at the foe.");
+    "Whips up a vicious twister.\n"
+    "Attacks first.");
 
 static const u8 sRainDanceDescription[] = _(
     "Boosts the power of WATER-\n"

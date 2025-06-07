@@ -3929,7 +3929,7 @@ const struct BattleMove gBattleMoves[MOVES_COUNT] =
     [MOVE_NEEDLE_ARM] =
     {
         .effect = EFFECT_FLINCH_MINIMIZE_HIT,
-        .power = 60,
+        .power = 75,
         .type = TYPE_GRASS,
         .accuracy = 100,
         .pp = 15,

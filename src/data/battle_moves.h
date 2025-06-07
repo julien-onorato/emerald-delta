@@ -4033,7 +4033,7 @@ const struct BattleMove gBattleMoves[MOVES_COUNT] =
     [MOVE_ASTONISH] =
     {
         .effect = EFFECT_FLINCH_MINIMIZE_HIT,
-        .power = 30,
+        .power = 40,
         .type = TYPE_GHOST,
         .accuracy = 100,
         .pp = 15,

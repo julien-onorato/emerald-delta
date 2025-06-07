@@ -4436,7 +4436,7 @@ const struct BattleMove gBattleMoves[MOVES_COUNT] =
     [MOVE_MUD_SHOT] =
     {
         .effect = EFFECT_SPEED_DOWN_HIT,
-        .power = 55,
+        .power = 65,
         .type = TYPE_GROUND,
         .accuracy = 95,
         .pp = 15,

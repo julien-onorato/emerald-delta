@@ -1174,8 +1174,8 @@ static const u8 sCamouflageDescription[] = _(
     "depending on the location.");
 
 static const u8 sTailGlowDescription[] = _(
-    "Flashes a light that sharply\n"
-    "raises SP. ATK.");
+    "Flashes a light that also\n"
+    "raises ATK.");
 
 static const u8 sLusterPurgeDescription[] = _(
     "Attacks with a burst of\n"

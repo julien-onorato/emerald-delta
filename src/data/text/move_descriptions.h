@@ -506,8 +506,8 @@ static const u8 sFireBlastDescription[] = _(
     "strikes. May cause a burn.");
 
 static const u8 sWaterfallDescription[] = _(
-    "Charges the foe with speed\n"
-    "to climb waterfalls.");
+    "Charges the foe with speed.\n"
+    "May cause flinching.");
 
 static const u8 sClampDescription[] = _(
     "Traps and squeezes the\n"
